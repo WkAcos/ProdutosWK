@@ -1,0 +1,20 @@
+.btn-laranja {
+    background-color: #f0740f;
+    color: white;
+    border: none;
+}
+
+.btn-laranja:hover {
+    background-color: #e96b0c;
+}
+
+.btn-preto{
+    background-color: #2c2a29;
+    color: white;
+    border: none;
+}
+
+.btn-preto:hover {
+    color: white;
+    background-color: #13100e;
+}
